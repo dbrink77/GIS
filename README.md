@@ -24,7 +24,7 @@ Below you can find a list of all of my ongoing projects throughout this semester
 
 # Project 2: [project2](project2)
 
-# Final Project:[Final Project](Final Project)
+
 
 
 
