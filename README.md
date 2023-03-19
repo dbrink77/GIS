@@ -20,7 +20,9 @@ Project management skills are crtiical to ensure that I can ensure the creation 
 #  Links to ongoing class work
 Below you can find a list of all of my ongoing projects throughout this semester.
 
-[Project1](project1.md)
+#[Project1](project1.md)
+
+
 
 
 
