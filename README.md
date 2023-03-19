@@ -1,6 +1,9 @@
 # Welcome
 This is my public portfolio for Advanced GIS at CMU ! This is where you can find all of the cool ongoing projects I am working on. I post my ongoing GIS maps and projects in this folder, so it represents my diverse levels of research. 
 
+# Links for Repository
+https://dbrink77.github.io/GIS-Projects/
+
 About me
 Hello! My name is Dennis Brink, I am a second year masters student studying in the Heinz school of information systems and public policy at Carnegie Mellon University. I am currently studying public policy, where I specialize in housing policy research. I have analyzed housing from a variety of different sub categories such as affordable housing, land recycing initiatives and blight mitigation intervention. My current research is assessing the impact vacant land has upon community health within disadvantaged communities. What I love most about studying at Carnegie Mellon, is that learn new tools in analyzing data to create innovative solutions to some of the biggest social challenges. Creating maps with GIS can be a very powerful way of analzying and assessing society facing challenges. GIS is a tool that brings new avenues of visually understanding and comprehending narratives data tell. Its wide range of statisical and layering capabilites, allow for advanced spatial anaylsis. Througn my work in this I hope to be able to enahance my GIS capabilites, to allow for the development and creation of solutions to housing policy. 
 
