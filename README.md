@@ -23,6 +23,3 @@ Below you can find a list of all of my ongoing projects throughout this semester
 [Project1]
 
 
-# Links to other respositories:
-Use this link to check out my data visualization and project work from my Telling Stories with Data Class!
-
