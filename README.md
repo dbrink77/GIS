@@ -17,8 +17,8 @@ The incorporation of statistics into maps allows for data to take on flexible an
 2. Project Management: 
 Project management skills are crtiical to ensure that I can ensure the creation of efficient and timely work. The better organized  a project the higher possible rate of success it can have. This course will allow for me to understand how to organize, plan and document my work in ways which will enhance my projects and potential ability to respond to rfps and government based projects.
 
-#  Links to ongoing class work
-Below you can find a list of all of my ongoing projects throughout this semester.
+# Porfolio
+Below you can find a list of all of the completed work within my GIS portfolio.
 
 # Projects: [Project1](project1.md)
 
