@@ -4,7 +4,8 @@ This is my public portfolio for Advanced GIS at CMU ! This is where you can find
 # Links for Repository
 https://dbrink77.github.io/GIS-Projects/
 
-https://dbrink77.github.io/GIS-Projects/
+https://dbrink77.github.io/GIS-Projects/Project1
+
 
 
 # About me
