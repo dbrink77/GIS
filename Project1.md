@@ -26,7 +26,7 @@ https://docs.google.com/document/d/1d9eyPDYs4pnKTTe33hA-oqWAm4CBfCuIFE5_3_3xcvo/
 # API Map
 Connected below please see a link to connect to a download of my new map design for Grounded. 
 
-[Grounded](JSON map)
+Grounded: [Grounded] (JSON map)
 
 
 
