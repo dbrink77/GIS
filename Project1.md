@@ -59,7 +59,7 @@ https://docs.google.com/document/d/1IeBTSy6c_Jg2sJVXW23DynZGokO4qjmNVYlV2QTdktU/
 
 # API of web based map
 Attached below you can find a JSON downloadable link to the new active grounded map made designed for this project. 
-(JSON map)
+[Grounded in Pittsburgh](Grounded Map)
 
 
 
