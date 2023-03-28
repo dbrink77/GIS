@@ -20,6 +20,14 @@ https://docs.google.com/document/d/1d9eyPDYs4pnKTTe33hA-oqWAm4CBfCuIFE5_3_3xcvo/
 
 # Method and Scope of Work
 
+In order to start this work, I first began by looking through the Grounded website. By looking through their website and knowing about the variety of work they do, it made complete sense for me to analyze the colors on the website. I found a photo on one of the main pages and then uploaded it to canva, which then gave a list of hex codes assoicatd with a color pallette for the website.  The color pallette and photo can be foud below. 
+
+#Insert Photo
+
+The color pallete had multiple greens, as well as a grey and light beige colors. 
+
+![image](https://user-images.githubusercontent.com/123436415/228132490-2dcc79aa-d16e-4f21-8154-106dbbde23d2.png)
+
 
 
 
