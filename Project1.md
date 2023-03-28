@@ -57,6 +57,12 @@ A table with all of the features used with their appropriate color and instructi
 https://docs.google.com/document/d/1IeBTSy6c_Jg2sJVXW23DynZGokO4qjmNVYlV2QTdktU/edit?usp=sharing
 
 
+# API of web based map
+Attached below you can find a JSON downloadable link to the new active grounded map made designed for this project. 
+
+
+
+
 # Concluding results and steps Grounded can take moving forward
 
 In conclusion, the map in its simplicity allows for Grounded to deveop upon the map by adding its own points of interest, allowing for success expansion of their community develoment initiatives. 
