@@ -22,7 +22,6 @@ Below you can find a list of all of the completed work within my GIS portfolio.
 
 # Projects: [Project1](project1.md)
 
-# Project 2: [project2](project2)
 
 
 
